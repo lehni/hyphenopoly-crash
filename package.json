@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "name": "hyphenopoly-crash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hyphenopoly": "^4.11.0"
+  }
+}
